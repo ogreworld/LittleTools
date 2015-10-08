@@ -1,3 +1,16 @@
+#!/usr/bin/python
+# -*- coding: utf-8 -*-
+
+################################################################################
+# Copyright (C), 2015, Luck Lee.
+#
+# Filename:     delete_files.py
+# Version:      1.0.0
+# Description:  Delete useless files.
+# Author:       Luke Lee
+# History:
+#       2015-09-15 | First created.
+################################################################################
 
 import bisect
 import string
